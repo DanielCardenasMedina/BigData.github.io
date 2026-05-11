@@ -1,0 +1,16 @@
+placa,modelo,capacidad_kg,conductor_id,ano_fabricacion,tipo_combustible,activo
+ABC-001,Mercedes Actros 2021,2204,DRV-009,2020,GNV,True
+ABC-002,Mercedes Actros 2021,7543,DRV-018,2019,Eléctrico,True
+XYZ-101,Volvo FH 2022,2767,DRV-007,2020,Diesel,True
+XYZ-102,Renault T 2022,3805,DRV-015,2023,Gasolina,True
+LMN-050,Scania R450 2020,7719,DRV-014,2021,Gasolina,True
+LMN-051,MAN TGX 2022,4757,DRV-004,2019,Eléctrico,True
+QRS-200,Iveco Stralis 2020,4817,DRV-020,2021,Diesel,False
+QRS-201,Mercedes Actros 2021,5100,DRV-003,2023,Gasolina,True
+TUV-300,MAN TGX 2022,7771,DRV-003,2019,GNV,True
+TUV-301,Mercedes Actros 2021,3907,DRV-004,2022,Gasolina,False
+DEF-400,Iveco Stralis 2020,3332,DRV-012,2021,GNV,True
+DEF-401,Mercedes Actros 2021,6990,DRV-006,2023,GNV,True
+GHI-500,Freightliner Cascadia 2021,5108,DRV-009,2024,GNV,True
+GHI-501,Volvo FH 2022,3876,DRV-002,2021,Eléctrico,True
+JKL-600,Mercedes Actros 2021,3728,DRV-019,2024,Gasolina,True

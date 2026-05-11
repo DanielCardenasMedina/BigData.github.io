@@ -1,0 +1,8 @@
+KPIs - SMARTLOGIS AA4
+========================================
+
+Total Entregas: 12,000
+Tasa Éxito Promedio: 85.40%
+Total Incidencias: 500
+KM Totales Recorridos: 187,450 km
+Velocidad Promedio de Flota: 67.3 km/h
