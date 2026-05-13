@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-_producer_gps.py
+kafka_producer_gps.py
 =====================
 Productor de eventos Kafka para SmartLogis AA4.
 Simula eventos GPS en tiempo real de vehículos de la flota.
