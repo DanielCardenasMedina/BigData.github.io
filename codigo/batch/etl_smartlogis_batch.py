@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """
+etl_smartlogis_batch.py
 =======================
 Script ETL batch principal del ecosistema SmartLogis AA4.
 Procesa datos históricos con Spark: RDD, DataFrames y Spark SQL.
